@@ -1,7 +1,6 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import App from '../App';
 
-
 // eslint-disable-next-line no-undef
 test('renders Vite + React text', () => {
   render(<App />);
